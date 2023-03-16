@@ -18,7 +18,7 @@ for email in emails:
     )
 
 print()
-print("validation/domain")
+print("[validation/domain]")
 domains = [
     "example.com",
     "examplecom",
